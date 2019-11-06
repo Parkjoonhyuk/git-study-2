@@ -3,7 +3,7 @@
 # 정인혁 서울대
 
 def main():
-    print("Hello, world!")
+    print("dev")
 
 
 if __name__ == '__main__':
